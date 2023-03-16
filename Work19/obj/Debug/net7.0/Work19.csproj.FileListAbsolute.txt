@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Lesson3\Work19\bin\Debug\net7.0\Work19.exe
+C:\Users\User\Desktop\Lesson3\Work19\bin\Debug\net7.0\Work19.deps.json
+C:\Users\User\Desktop\Lesson3\Work19\bin\Debug\net7.0\Work19.runtimeconfig.json
+C:\Users\User\Desktop\Lesson3\Work19\bin\Debug\net7.0\Work19.dll
+C:\Users\User\Desktop\Lesson3\Work19\bin\Debug\net7.0\Work19.pdb
+C:\Users\User\Desktop\Lesson3\Work19\obj\Debug\net7.0\Work19.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Lesson3\Work19\obj\Debug\net7.0\Work19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Lesson3\Work19\obj\Debug\net7.0\Work19.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Lesson3\Work19\obj\Debug\net7.0\Work19.AssemblyInfo.cs
+C:\Users\User\Desktop\Lesson3\Work19\obj\Debug\net7.0\Work19.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lesson3\Work19\obj\Debug\net7.0\Work19.dll
+C:\Users\User\Desktop\Lesson3\Work19\obj\Debug\net7.0\refint\Work19.dll
+C:\Users\User\Desktop\Lesson3\Work19\obj\Debug\net7.0\Work19.pdb
+C:\Users\User\Desktop\Lesson3\Work19\obj\Debug\net7.0\Work19.genruntimeconfig.cache
+C:\Users\User\Desktop\Lesson3\Work19\obj\Debug\net7.0\ref\Work19.dll
